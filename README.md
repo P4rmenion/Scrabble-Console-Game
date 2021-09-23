@@ -1,2 +1,2 @@
-# Scrabble-Console-Game-Greek-
-A simple console game that implements the classic game of Scrabble. Beware, it's a greek edition and it is simplified. There is no UI, it functions solely on finding complete words with the hand you are dealt. You can play versus the computer, as well as modify the computer's playstyle to make the game harder. The program also saves you local game history with a few stats.
+# Scrabble-Console-Game-Greek
+A simple console game that implements the classic game of Scrabble. Beware, it's a greek edition and it is simplified. There is no UI, it functions solely on finding complete words with the hand you are dealt. You can play versus the computer, as well as modify the computer's playstyle to make the game harder. The program also saves your local game history with a few stats.
